@@ -14,9 +14,9 @@ Features
 You can install KFL-Builder by cloning the repository and building it from source:
 
       
-git clone https://github.com/yourusername/kfl-builder.git
-cd kfl-builder
-make install 
+    git clone https://github.com/yourusername/kfl-builder.git
+    cd kfl-builder
+    make install 
 
     
 # License
